@@ -1,52 +1,43 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include second language acquisition, psycholinguistics, learner corpus research, and language testing.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Second Language Studies
+    institution: University of Hawaiʻi at Manōa
+    year: 2016–present
+  - course: MA in Second Language Studies
+    institution: University of Hawaiʻi at Manōa
+    year: 2013–2016
+  - course: BA in Classical Studies
+    institution: Wesleyan University
+    year: 2005–2009
 email: ""
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Second Language Acquisition
+- Morphosyntax
+- Psycholinguistics
+- Learner Corpus Research
+- Language Testing
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Hawaiʻi at Manōa
+  url: https://manoa.hawaii.edu/
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=3VLuGiwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fzenk
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Fred Zenker
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a PhD candidate in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My areas of interest include second language acquisition, morphosyntax, psycholinguistics, learner corpus research, and language testing. My dissertation research explores pronominal resumption in L1/L2 English, Korean, and Mandarin. I also have experience teaching undergraduate courses on general linguistics and second language acquisition.
