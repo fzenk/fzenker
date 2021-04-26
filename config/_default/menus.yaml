@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Contact
-    url: '#contact'
+  - name: "Contact"
+    url: 'https://manoahawaiiss.az1.qualtrics.com/jfe/form/SV_emKHsDXKGkyiME6'
     weight: 70
   - name: "CV"
     url: 'cv/cv.pdf'
