@@ -22,6 +22,8 @@ interests:
 organizations:
 - name: University of Hawaiʻi at Mānoa
   url: https://manoa.hawaii.edu/
+- name: Second Language Studies
+  url: https://www.hawaii.edu/sls/
 role: PhD Candidate
 social:
 - icon: envelope
