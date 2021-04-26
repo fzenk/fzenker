@@ -27,6 +27,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-1620-6690
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=3VLuGiwAAAAJ
@@ -40,4 +43,4 @@ superuser: true
 title: Fred Zenker
 ---
 
-I am a PhD candidate in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My areas of interest include second language acquisition, morphosyntax, psycholinguistics, learner corpus research, and language testing. My dissertation research explores pronominal resumption in L1/L2 English, Korean, and Mandarin. I also have experience teaching undergraduate courses on general linguistics and second language acquisition.
+I am a PhD candidate in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My areas of interest include second language acquisition, morphosyntax, psycholinguistics, learner corpus research, and language testing. My dissertation research examines resumptive relative clause dependencies in L1/L2 English, Korean, and Mandarin. I also have experience teaching undergraduate courses on general linguistics and second language acquisition.
