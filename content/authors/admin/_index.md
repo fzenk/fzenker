@@ -3,10 +3,10 @@ bio: My research interests include second language acquisition, psycholinguistic
 education:
   courses:
   - course: PhD in Second Language Studies
-    institution: University of Hawaiʻi at Manōa
+    institution: University of Hawaiʻi at Mānoa
     year: 2016–present
   - course: MA in Second Language Studies
-    institution: University of Hawaiʻi at Manōa
+    institution: University of Hawaiʻi at Mānoa
     year: 2013–2016
   - course: BA in Classical Studies
     institution: Wesleyan University
@@ -20,7 +20,7 @@ interests:
 - Learner Corpus Research
 - Language Testing
 organizations:
-- name: University of Hawaiʻi at Manōa
+- name: University of Hawaiʻi at Mānoa
   url: https://manoa.hawaii.edu/
 role: PhD Candidate
 social:
