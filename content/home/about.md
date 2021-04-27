@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: 
+title: ' '
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
@@ -23,5 +23,5 @@ author: admin
 design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["30px", "0", "20px", "0"]
+    padding: ["20px", "0", "20px", "0"]
 ---

@@ -45,6 +45,7 @@ highlight_languages:
   - python
   - latex
 math: false
+profile: false
 diagram: false
 privacy_pack: false
 edit_page:
@@ -65,7 +66,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
