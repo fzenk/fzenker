@@ -40,7 +40,7 @@ social:
   link: https://github.com/fzenk
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: www.linkedin.com/in/frederick-zenker-53b13724
 superuser: true
 title: Fred Zenker
 ---
