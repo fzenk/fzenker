@@ -20,10 +20,10 @@ interests:
 - Learner Corpus Research
 - Language Testing
 organizations:
-- name: University of Hawaiʻi at Mānoa
-  url: https://manoa.hawaii.edu/
 - name: Second Language Studies
   url: https://www.hawaii.edu/sls/
+- name: University of Hawaiʻi at Mānoa
+  url: https://manoa.hawaii.edu/
 role: PhD Candidate
 social:
 - icon: envelope
