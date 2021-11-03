@@ -45,4 +45,4 @@ superuser: true
 title: Fred Zenker
 ---
 
-I am a PhD candidate in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My areas of interest include second language acquisition, morphosyntax, psycholinguistics, learner corpus research, and language testing. My dissertation research examines resumptive relative clause dependencies in L1/L2 English, Korean, and Mandarin. I also have experience teaching undergraduate courses on general linguistics and second language acquisition.
+I am a PhD candidate in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My areas of interest include second language acquisition, morphosyntax, psycholinguistics, learner corpus research, and language testing. My dissertation research examines the processing of relative clauses in L1/L2 English, Korean, and Mandarin. I also have experience teaching undergraduate courses on general linguistics and second language acquisition.
