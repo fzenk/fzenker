@@ -1,4 +1,4 @@
-{{ $show_navbar := site.Params.main_menu.enable | default true }}
+{{ $show_navbar := ((site.Params.main_menu.enable | default true) | and (ne .Params.main_menu.enable false)) | or .Params.main_menu.enable }}
 {{ if $show_navbar }}
 
 {{ $current_page := . }}
