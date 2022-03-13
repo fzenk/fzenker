@@ -2,6 +2,9 @@
 title: ""
 main_menu:
   enable: false
+_build:
+  render: always
+  list: never
 ---
 
 <img src="img_overview.jpg" alt="A nice image" style="width: 300px;" />
