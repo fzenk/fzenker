@@ -6,7 +6,7 @@ theme: "starter-academic"
 
 title: Fred Zenker # Website name
 baseurl: 'https://fredzenker.netlify.app/' # Website URL
-copyright: '© 2021 Fred Zenker' # Footer text, e.g. '© {year} Me'
+copyright: '© 2022 Fred Zenker' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

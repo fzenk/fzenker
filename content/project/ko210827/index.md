@@ -10,7 +10,7 @@ _build:
 <img src="img_overview.jpg" alt="A nice image" style="width: 300px;" />
 
 <h1 style="text-align: center;"> 영어와 한국어에 관한 언어 실험 </h1>
-<p style="text-align: center;">Study ID: 210827</p>
+<p style="text-align: center;">급여: 11,000원 (30–60분) &nbsp;&nbsp;&nbsp;&nbsp; 연구자: Fred Zenker &nbsp;&nbsp;&nbsp;&nbsp; 실험 ID: 210827</p>
 
 
 ## 실험 설명
