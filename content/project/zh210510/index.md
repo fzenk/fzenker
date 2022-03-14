@@ -10,7 +10,7 @@ _build:
 <img src="img_overview.jpg" alt="A nice image" style="width: 300px;" />
 
 <h1 style="text-align: center;"> 中英文語言實驗 </h1>
-<p style="text-align: center;">Study ID: 210510</p>
+<p style="text-align: center;">研究者: Fred Zenker &nbsp;&nbsp;&nbsp; 實驗序號: 210510</p>
 
 ## 流程說明
 
