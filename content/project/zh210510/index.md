@@ -35,6 +35,6 @@ _build:
 
 我將會提供完成所有實驗的受試者新台幣400元當作報酬。 在最後一個測驗之後，系統會請您提供以下資訊，以助我匯款到您台灣的銀行帳戶：（1）銀行名稱，（2）收款人姓名，（3）銀行帳號。我會盡力在收到您的資料後72小時內完成匯款。如果您仔細遵守實驗說明，並盡力完成每一項測驗，那麼您可以預期繳交的資料被受理。如果您對轉帳資訊有任何疑慮，歡迎寄信到fzenker@hawaii.edu （中英文皆可）。
 
-<a href="https://chqbs9uyxi.cognition.run/?study=zh210510do&site=ptt2" style="text-align:center;display:block;font-size:150%">
+<a href="https://chqbs9uyxi.cognition.run/?study=zh210510su&site=ptt2" style="text-align:center;display:block;font-size:150%">
    <button>報名參加實驗</button>
 </a>
