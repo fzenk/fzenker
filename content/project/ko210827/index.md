@@ -12,6 +12,9 @@ _build:
 <h1 style="text-align: center;"> 영어와 한국어에 관한 언어 실험 </h1>
 <p style="text-align: center;">급여: 11,000원 (30–60분) &nbsp;&nbsp;&nbsp;&nbsp; 연구자: Fred Zenker &nbsp;&nbsp;&nbsp;&nbsp; 실험 ID: 210827</p>
 
+<!--
+<h2 style="text-align: center;"> 현재는 참가자의 수가 많아 실험 참가신청을 받지 않습니다. </h2>
+-->
 
 ## 실험 설명
 

@@ -12,6 +12,10 @@ _build:
 <h1 style="text-align: center;"> 中英文語言實驗 </h1>
 <p style="text-align: center;">研究者: Fred Zenker &nbsp;&nbsp;&nbsp; 實驗序號: 210510</p>
 
+<h2 style="text-align: center;"> 此實驗目前暫時不再新徵受試者 </h2>
+
+<!--
+
 ## 流程說明
 
 這個實驗一共包含五項測驗，目的在於了解人們如何用他們的母語或/和第二語言處理某些類型的句子。您可以選擇一次做完所有測驗，或者在七天內分批做完各項測驗。在每個測驗的最後，您會收到一組新的測驗序號。透過這組序號，您可以繼續下一個測驗。完成整個實驗大概需要60–120分鐘。
@@ -38,3 +42,5 @@ _build:
 <a href="https://chqbs9uyxi.cognition.run/?study=zh210510su&site=ptt2" style="text-align:center;display:block;font-size:150%">
    <button>報名參加實驗</button>
 </a>
+
+-->
