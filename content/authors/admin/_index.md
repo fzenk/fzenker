@@ -15,8 +15,8 @@ email: ""
 highlight_name: false
 interests:
 - Second Language Acquisition
-- Morphosyntax
 - Psycholinguistics
+- Experimental Morphosyntax
 - Learner Corpus Research
 - Language Testing
 - Instructed Second Language Learning
