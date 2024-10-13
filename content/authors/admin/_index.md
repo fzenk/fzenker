@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Second Language Studies
     institution: University of Hawaiʻi at Mānoa
-    year: 2016
+    year: 2024
   - course: MA in Second Language Studies
     institution: University of Hawaiʻi at Mānoa
     year: 2016
@@ -49,4 +49,4 @@ superuser: true
 title: Fred Zenker
 ---
 
-Hello! I am a recent graduate from the PhD program in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My research is primarily concerned with investigating how learners (a) develop implicit knowledge about the morphosyntax of a nonnative language and (b) process sentences in that language in real time. I have experience teaching courses on general linguistics and second language acquisition to both undergraduate and graduate students. I also have a strong background in teaching English to speakers of other languages. I am currently working as an Adjunct Instructor in the Intensive English Program at Green River College in Auburn, WA.
+Hello! I am a recent graduate from the PhD program in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My research is primarily concerned with investigating how learners (a) develop implicit knowledge about the morphosyntax of a nonnative language and (b) process sentences in that language in real time. I have experience teaching courses on general linguistics and second language acquisition to both undergraduate and graduate students. I also have a strong background in teaching English to speakers of other languages. I am currently working as an Adjunct Instructor in the Intensive English Program at Green River College in beautiful Auburn, WA.
