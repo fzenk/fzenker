@@ -4,13 +4,13 @@ education:
   courses:
   - course: PhD in Second Language Studies
     institution: University of Hawaiʻi at Mānoa
-    year: 2016–present
+    year: 2016
   - course: MA in Second Language Studies
     institution: University of Hawaiʻi at Mānoa
-    year: 2013–2016
-  - course: BA in Classical Studies
+    year: 2016
+  - course: BA with Honors in Classical Civilization
     institution: Wesleyan University
-    year: 2005–2009
+    year: 2009
 email: ""
 highlight_name: false
 interests:
@@ -19,13 +19,13 @@ interests:
 - Experimental Morphosyntax
 - Learner Corpus Research
 - Language Testing
-- Instructed Second Language Learning
+- Second Language Pedagogy
 organizations:
-- name: Second Language Studies
-  url: https://www.hawaii.edu/sls/
-- name: University of Hawaiʻi at Mānoa
-  url: https://manoa.hawaii.edu/
-role: PhD Candidate
+- name: Intensive English Program
+  url: https://www.greenriver.edu/international/programs/intensive-english/index.html
+- name: Green River College
+  url: https://www.greenriver.edu/
+role: Adjunct Instructor
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,4 +49,4 @@ superuser: true
 title: Fred Zenker
 ---
 
-I am a PhD candidate in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My areas of interest include second language acquisition, morphosyntax, psycholinguistics, learner corpus research, language testing, and instructed second language learning. My dissertation research examines the processing of relative clauses in L1/L2 English, Korean, and Mandarin. I also have experience teaching undergraduate and graduate students in courses on general linguistics and second language acquisition.
+Hello! I am a recent graduate from the PhD program in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My research is primarily concerned with investigating how learners (a) develop implicit knowledge about the morphosyntax of a nonnative language and (b) process sentences in that language in real time. I have experience teaching courses on general linguistics and second language acquisition to both undergraduate and graduate students. I also have a strong background in teaching English to speakers of other languages. I am currently working as an Adjunct Instructor in the Intensive English Program at Green River College in Auburn, WA.
