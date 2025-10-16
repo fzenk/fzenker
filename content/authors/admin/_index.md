@@ -21,11 +21,11 @@ interests:
 - Language Testing
 - Second Language Pedagogy
 organizations:
-- name: Intensive English Program
-  url: https://www.greenriver.edu/international/programs/intensive-english/index.html
-- name: Green River College
-  url: https://www.greenriver.edu/
-role: Adjunct Instructor
+- name: Department of English Linguistics
+  url: https://www.tu-braunschweig.de/en/anglistik/seminar/linguistik
+- name: Technische Universität Braunschweig
+  url: https://www.tu-braunschweig.de/
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,4 +49,4 @@ superuser: true
 title: Fred Zenker
 ---
 
-Hello! I am a recent graduate from the PhD program in the Department of Second Language Studies at the University of Hawaiʻi at Mānoa. My research is primarily concerned with investigating how learners (a) develop implicit knowledge about the morphosyntax of a nonnative language and (b) process sentences in that language in real time. I have experience teaching courses on general linguistics and second language acquisition to both undergraduate and graduate students. I also have a strong background in teaching English to speakers of other languages. I am currently working as an Adjunct Instructor in the Intensive English Program at Green River College in beautiful Auburn, WA.
+Hello! I am a postdoctoral researcher in the Department of English Linguistics at TU Braunschweig. My research is primarily concerned with investigating how learners (a) develop implicit knowledge about the morphosyntax of a nonnative language and (b) process sentences in that language in real time. I have experience teaching courses on general linguistics and second language acquisition to both undergraduate and graduate students. I also have a strong background in teaching English to speakers of other languages.
